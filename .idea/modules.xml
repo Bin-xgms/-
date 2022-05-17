@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xiamu.iml" filepath="$PROJECT_DIR$/xiamu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-auth/xiamu-auth.iml" filepath="$PROJECT_DIR$/xiamu-auth/xiamu-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-auth/xiamu-auth-common/xiamu-auth-common.iml" filepath="$PROJECT_DIR$/xiamu-auth/xiamu-auth-common/xiamu-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-auth/xiamu-auth-service/xiamu-auth-service.iml" filepath="$PROJECT_DIR$/xiamu-auth/xiamu-auth-service/xiamu-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-cart/xiamu-cart.iml" filepath="$PROJECT_DIR$/xiamu-cart/xiamu-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-common/xiamu-common.iml" filepath="$PROJECT_DIR$/xiamu-common/xiamu-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-gateway/xiamu-gateway.iml" filepath="$PROJECT_DIR$/xiamu-gateway/xiamu-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-goods-web/xiamu-goods-web.iml" filepath="$PROJECT_DIR$/xiamu-goods-web/xiamu-goods-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-item/xiamu-item.iml" filepath="$PROJECT_DIR$/xiamu-item/xiamu-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-item/xiamu-item-interface/xiamu-item-interface.iml" filepath="$PROJECT_DIR$/xiamu-item/xiamu-item-interface/xiamu-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-item/xiamu-item-service/xiamu-item-service.iml" filepath="$PROJECT_DIR$/xiamu-item/xiamu-item-service/xiamu-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-registery/xiamu-registery.iml" filepath="$PROJECT_DIR$/xiamu-registery/xiamu-registery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-search/xiamu-search.iml" filepath="$PROJECT_DIR$/xiamu-search/xiamu-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-upload/xiamu-upload.iml" filepath="$PROJECT_DIR$/xiamu-upload/xiamu-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-user/xiamu-user.iml" filepath="$PROJECT_DIR$/xiamu-user/xiamu-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-user/xiamu-user-interface/xiamu-user-interface.iml" filepath="$PROJECT_DIR$/xiamu-user/xiamu-user-interface/xiamu-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiamu-user/xiamu-user-service/xiamu-user-service.iml" filepath="$PROJECT_DIR$/xiamu-user/xiamu-user-service/xiamu-user-service.iml" />
+    </modules>
+  </component>
+</project>

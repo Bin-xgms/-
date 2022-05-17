@@ -1,0 +1,26 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: item-service
+  datasource:
+    url: jdbc:mysql:///hm49
+    username: root
+    password: root
+  rabbitmq:
+      host: 192.168.59.129
+      username: xiamu
+      password: xiamu
+      virtual-host: /xiamu
+      template:
+        exchange: xiamu.item.exchange
+      publisher-confirms: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+  instance:
+    lease-expiration-duration-in-seconds: 15 #15秒不续约就停止
+    lease-renewal-interval-in-seconds: 5 # 每5秒发送一次心跳
+mybatis:
+  type-aliases-package: com.xiamu.item.pojo

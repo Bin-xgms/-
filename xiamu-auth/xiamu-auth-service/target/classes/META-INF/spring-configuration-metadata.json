@@ -1,0 +1,53 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.xiamu.auth.config.JwtProperties",
+      "name": "xiamu.jwt",
+      "type": "com.xiamu.auth.config.JwtProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.xiamu.auth.config.JwtProperties",
+      "name": "xiamu.jwt.cookie-max-age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.xiamu.auth.config.JwtProperties",
+      "name": "xiamu.jwt.cookie-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xiamu.auth.config.JwtProperties",
+      "defaultValue": 0,
+      "name": "xiamu.jwt.expire",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.xiamu.auth.config.JwtProperties",
+      "name": "xiamu.jwt.pri-key-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xiamu.auth.config.JwtProperties",
+      "name": "xiamu.jwt.private-key",
+      "type": "java.security.PrivateKey"
+    },
+    {
+      "sourceType": "com.xiamu.auth.config.JwtProperties",
+      "name": "xiamu.jwt.pub-key-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xiamu.auth.config.JwtProperties",
+      "name": "xiamu.jwt.public-key",
+      "type": "java.security.PublicKey"
+    },
+    {
+      "sourceType": "com.xiamu.auth.config.JwtProperties",
+      "name": "xiamu.jwt.secret",
+      "type": "java.lang.String"
+    }
+  ]
+}

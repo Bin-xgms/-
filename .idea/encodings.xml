@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-auth/xiamu-auth-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-auth/xiamu-auth-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-goods-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-item/xiamu-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-item/xiamu-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-registery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-user/xiamu-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xiamu-user/xiamu-user-service" charset="UTF-8" />
+  </component>
+</project>

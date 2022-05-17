@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xiamu-auth-common" />
+        <module name="xiamu-auth-service" />
+        <module name="xiamu-cart" />
+        <module name="xiamu-common" />
+        <module name="xiamu-gateway" />
+        <module name="xiamu-goods-web" />
+        <module name="xiamu-item-interface" />
+        <module name="xiamu-item-service" />
+        <module name="xiamu-registery" />
+        <module name="xiamu-search" />
+        <module name="xiamu-upload" />
+        <module name="xiamu-user-interface" />
+        <module name="xiamu-user-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xiamu" target="1.8" />
+      <module name="xiamu-auth" target="1.8" />
+      <module name="xiamu-auth-common" target="1.8" />
+      <module name="xiamu-auth-service" target="1.8" />
+      <module name="xiamu-cart" target="1.8" />
+      <module name="xiamu-common" target="1.8" />
+      <module name="xiamu-gateway" target="1.8" />
+      <module name="xiamu-goods-web" target="1.8" />
+      <module name="xiamu-item" target="1.8" />
+      <module name="xiamu-item-interface" target="1.8" />
+      <module name="xiamu-item-service" target="1.8" />
+      <module name="xiamu-registery" target="1.8" />
+      <module name="xiamu-search" target="1.8" />
+      <module name="xiamu-upload" target="1.8" />
+      <module name="xiamu-user" target="1.8" />
+      <module name="xiamu-user-interface" target="1.8" />
+      <module name="xiamu-user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

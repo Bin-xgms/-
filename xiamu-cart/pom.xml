@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>xiamu</artifactId>
+        <groupId>com.xiamu.parent</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.xiamu.cart</groupId>
+    <artifactId>xiamu-cart</artifactId>
+<dependencies>
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+    <dependency>
+        <groupId>org.springframework.cloud</groupId>
+        <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+    </dependency>
+    <dependency>
+        <groupId>org.springframework.cloud</groupId>
+        <artifactId>spring-cloud-starter-openfeign</artifactId>
+    </dependency>
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-data-redis</artifactId>
+    </dependency>
+    <dependency>
+        <groupId>com.xiamu.common</groupId>
+        <artifactId>xiamu-common</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>com.xiamu.auth</groupId>
+        <artifactId>xiamu-auth</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>com.xiamu.item</groupId>
+        <artifactId>xiamu-item</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </dependency>
+</dependencies>
+
+</project>
