@@ -16,9 +16,9 @@ public class XiamuCorsConfiguration {
         //初始化cors配置对象
         CorsConfiguration configuration = new CorsConfiguration();
         //允许跨域的域名，如果要携带cookid，不能写*。*：代表所有域名都可以跨域访问
-        configuration.addAllowedOrigin("http://manage.leyou.com");
-        configuration.addAllowedOrigin("http://leyou.com");
-        configuration.addAllowedOrigin("http://api.leyou.com");
+        configuration.addAllowedOrigin("http://manage.xiamu.com");
+        configuration.addAllowedOrigin("http://xiamu.com");
+        configuration.addAllowedOrigin("http://api.xiamu.com");
         configuration.setAllowCredentials(true);//允许携带cookie
         //configuration.addAllowedMethod("*");//代表所有的请求方法：GET、PUT、POST、DELETE。。
         configuration.addAllowedMethod("OPTIONS");
